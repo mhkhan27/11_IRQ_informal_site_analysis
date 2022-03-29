@@ -1,0 +1,17 @@
+#ignore files
+01_inputs/*
+02_outputs/*
+
+*.RData
+*.Rhistory
+*.html
+*.kml
+
+!/01_inputs/.gitkeep
+!/02_outputs/.gitkeep
+!/03_others/.gitkeep
+!/05_DAP/.gitkeep
+
+
+
+.Rproj.user
